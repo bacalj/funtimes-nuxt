@@ -1,9 +1,11 @@
 <template>
-  <Tutorial/>
+  <div class="app-wrap">
+    <Game />
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: 'Home'
 }
 </script>
